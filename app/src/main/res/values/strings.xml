@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="details_string">"Name: %1$s\nLanguage: %2$s\nGenres: %3$s\nStatus: %4$s\n"</string>
+    <string name="loading_fails">"Loading shows failed"</string>
+    <string name="no_search_results">We could not find any data. Maybe try again?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
